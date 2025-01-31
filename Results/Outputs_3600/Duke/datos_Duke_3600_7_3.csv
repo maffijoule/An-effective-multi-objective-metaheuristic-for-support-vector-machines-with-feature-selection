@@ -1,0 +1,2 @@
+Dataset,Time,AUC,FSC,CohenKappa,AUC_mean,AUC_std,Features_auc,Accurracy_max,Accurracy_mean,Accurracy_std,Features_acc,CohenKappa_mean,CohenKappa_std,Features_ck,Seed,Fold
+7,3600,1.0,1.0,1.0,0.9413333333333334,0.11206347407707035,6,1.0,0.8975,0.1407346794503757,6,0.7661794871794873,0.33714617152005283,6,7,3
